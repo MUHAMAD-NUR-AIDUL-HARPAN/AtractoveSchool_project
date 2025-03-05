@@ -1,0 +1,11 @@
+#teacher-slider::-webkit-scrollbar {
+  display: none; /* Untuk Chrome, Safari, Edge */
+}
+#teacher-slider {
+  -ms-overflow-style: none; /* Untuk Internet Explorer */
+  scrollbar-width: none; /* Untuk Firefox */
+}
+
+/* figure:hover img {
+  transform: perspective(500px) translateZ(50px);
+} */
